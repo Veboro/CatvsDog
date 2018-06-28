@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cats vs Dogs</string>
+    <string name="dogs">Dogs</string>
+    <string name="cats">Cats</string>
+    <string name="wiiner_text">has won!</string>
+    <string name="draw">It\'s a draw</string>
+    <string name="play_again">play again</string>
+    <string name="attacke">The war has begun, the cats attack first...</string>
+    <string name="fight">There is a fight</string>
+</resources>

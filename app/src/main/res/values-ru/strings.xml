@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Кошки против собак</string>
+    <string name="dogs">Собаки</string>
+    <string name="cats">Кошки</string>
+    <string name="wiiner_text">победили</string>
+    <string name="draw">Ничья</string>
+    <string name="play_again">Играть снова</string>
+    <string name="attacke">Война началась, кошки атакуют первыми...</string>
+    <string name="fight">Идет бой</string>
+</resources>
